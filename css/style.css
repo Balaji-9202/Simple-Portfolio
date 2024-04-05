@@ -1,0 +1,146 @@
+/* Write CSS code here */
+body{
+    background-color: #F9F4ED;
+    text-align: center  ;
+}
+.sam h1{
+    font-family:Caveat;
+    border:7px rgb(87, 86, 86) solid;
+    color:  rgb(87, 86, 86);
+    font-size: 40px;
+    width:100px;
+    /* margin-left: 230px; */
+    margin-left: 20%;
+    padding: 0px;
+    border-radius: 8px;
+}
+.highlights{
+    text-transform: uppercase;
+    background-color: #c66;
+    color: white;
+    margin:auto;
+    width: 700px;
+    padding: 15px;
+    font-size: 25px;
+    font-weight:525;
+    border-radius: 5px;
+    font-family:Dosis ;
+    letter-spacing: 2px;
+}
+.maincontent h1{
+    text-transform: uppercase;
+    font-family:Dosis ;
+    line-height: 0%;
+    font-size: 100px;
+    color: rgb(87, 86, 86);
+    letter-spacing: 6px;
+}
+.about{
+     color: rgb(87, 86, 86);
+    font-family: Bitter  ;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: rgb(87, 86, 86);
+    font-size: 32px;
+  
+}
+.hrline{
+    margin-top: 40px;
+   margin-bottom: 40px;
+    width: 700px;
+    border:9px #c66 solid;
+    border-radius: 6px;
+}
+.maincontent h2{
+    text-transform: uppercase;
+    color: rgb(87, 86, 86);
+    width:750px;
+    font-size: 25px;
+    margin: auto;
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    letter-spacing: 3px;
+    font-family:Dosis ;
+    font-weight: 300;
+    border-bottom:2px rgba(0,0,0,0.1) solid;
+}
+
+.maincontent i{
+    padding-right: 5px;
+}
+.maincontent a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:rgb(87, 86, 86);
+    font-family:Dosis ;
+    font-size: 35px;
+    letter-spacing: 3px;
+    padding-top: 0%;
+
+  
+}
+.content li{
+   
+    width: 750px;
+    border-bottom:2px rgba(0,0,0,0.1) solid;
+padding-top: 15px;
+padding-bottom: 15px;
+  padding-left: 50px;
+  
+}
+.content ul{
+   
+    list-style-type:none;
+    width: 800px;
+    margin: auto;
+    text-align: left;
+    font-size: 20px;
+   font-family: Bitter;
+   color: rgba(0,0,0,0.35); 
+   padding-left: 0%; 
+   line-height: 5px; 
+}
+.nav i{
+    padding-right: 5px;
+}
+.nav a{ 
+    margin: auto;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-weight:bold;
+    letter-spacing: 2px;
+    font-size: 30px;
+    color:rgb(87, 86, 86);
+font-family: Dosis;
+text-decoration: none;
+}
+.nav ul{
+  margin: auto;
+  width: 800px;
+  padding-left: 0%;
+}
+.nav li{
+text-align: left; 
+padding: 20px;
+list-style-type: none;
+border-bottom:2px rgba(0,0,0,0.1) solid;   
+}
+.footer p{
+    font-size: 20px;
+    padding: 20px;
+    font-family: Bitter;
+    width: 800px;
+    padding-left: 40px;
+
+}
+.footer a{
+   color:rgb(87, 86, 86);
+    font-family: Bitter;
+    text-decoration: none;
+}
+.note{
+    border-top:2px rgba(0,0,0,0.1) solid ;
+}
