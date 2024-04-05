@@ -1,51 +1,47 @@
-# Style a Professional Portfolio 
+# Sam Anderson's Professional Portfolio
 
-## Context
-Sam Anderson has been working as a Graphic Designer in London for several years. He now plans to expand his work in and outside London by having a web presence that showcases his work. Sam has already designed the layout of his web page but needs help in scripting the markups and styles to realize the design.​
+This repository contains the markup and styles for Sam Anderson's professional portfolio website. Sam, a seasoned Graphic Designer based in London, is expanding his presence both locally and globally and aims to showcase his exemplary work through this platform.
 
-Sam had assigned this work to a local FrontEnd Developer, but the developer had some challenges and unfortunately could only produce the markup. Sam now needs help in styling the web page such that it gives a great user-experience to attract his customers.​
+## Introduction
 
-As a web developer, you need to apply style to the web page provided to make it look more attractive and appealing to his customers.
+Sam Anderson has been a prominent figure in the London Graphic Design scene for several years. With a keen eye for detail and a passion for creativity, Sam's portfolio encapsulates his diverse range of projects, from branding to illustration.
 
-## Problem Statement
-Utilize CSS3 style properties to style a user-friendly web page that displays a professional portfolio. 
+## Objective
 
-**Style the Portfolio page to resemble the image given below.**
-![](./sam-portfolio.png)
+The objective of this project is to enhance the user experience and visual appeal of Sam Anderson's professional portfolio website. By applying cohesive and visually appealing styles, we aim to create an engaging platform that effectively showcases Sam's work and attracts potential clients.
 
-### Details
-- There are 4 fonts which are widely used across the page and they can be found at following locations:
-    - FontAwesome -  https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css (fa-solid, fa-pencil, fa-user, fa-lightbulb, fa-camera-retro)
-    - Caveat - https://fonts.google.com/specimen/Caveat
-    - Dosis - https://fonts.google.com/specimen/Dosis
-    - Bitter - https://fonts.google.com/specimen/Bitter
-- Color Codes frequently used on the page
-    - Light Gray - rgba(0,0,0,0.1)
-    - Dark Gray - rgba(0,0,0,0.35)
-    - [#c66](./c66.png)
-    - [#F9F4ED](./f9f4ed.png) 
-    - [#444](./444.png)
-- Images used across the page
-    - [Sam](./sam.png)
+## Technologies Used
 
-### Tasks
+- HTML5
+- CSS3
 
-- The boilerplate for this challenge contains `index.html` with HTML5 tags​
-- As part of solution, the HTML elements should be styled using CSS3 style properties.​
-- The solution for this practice can be developed in 4 steps:​​​​
-    - Step 1: Define styles in`style.css` file located in `css` folder of the boilerplate​​​​.
-    - Step 2: Link the styles.css file with index.html​​ using `<link>` tag​​.
-    - Step 3: Link the predefined stylesheets for fonts in `index.html` file​.
-    - Step 4: Apply styles defined using class or id selector to the page elements​.
+## Features
 
-- CSS Properties like color, background-color, display, list-style, font, margin, padding, border, width, line-height, letter-spacing, text related properties should be used to achieve the expected output. 
+- Clean and intuitive layout
+- Responsive design for seamless viewing across devices
+- Optimized images for fast loading times
+- Interactive elements to engage users
+- Easy navigation for exploring Sam's portfolio
 
-- Below is the list of predefined stylesheets that need to be added inside the `index.html` for formatting fonts.
-    ```
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">​
-    <link rel="preconnect" href="https://fonts.gstatic.com">​
-    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet">​
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:400,700%7CBitter:400,400italic,700&subset=latin,latin">​
-    
-    ```
-​
+## Getting Started
+
+To view the styled portfolio website, simply open the `index.html` file in your preferred web browser.
+
+## How to Contribute
+
+1. Fork the repository
+2. Make your changes
+3. Submit a pull request
+
+## Feedback
+
+If you have any feedback or suggestions for improving Sam Anderson's portfolio website, please feel free to reach out.
+
+## Credits
+
+- Designed and developed by [Your Name]
+- Portfolio content and images provided by Sam Anderson
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
